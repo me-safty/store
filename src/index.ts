@@ -1,2 +1,2 @@
-let d = "hello from ts && iam blueVamoire"
+const d = "hello from ts && iam blueVamoire";
 console.log(d);
